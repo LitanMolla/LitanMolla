@@ -2,7 +2,10 @@
 ## I am Fronted Web Developer 
 I'm a passionate Junior Frontend Developer from Bangladesh. I love crafting beautiful and functional web interfaces using HTML, CSS, Bootstrap, and JavaScript. Currently, I'm learning JavaScript, jQuery, and exploring the world of Laravel to enhance my web development skills.
 
-Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY 
+## Skills
+- Languages & Tools:
+HTML | CSS | Bootstrap | JavaScript | jQuery
+
 
 - 🌱 I’m currently learning Javascript  
 - 💬 Ask me about Html, CSS, Bootstrap  

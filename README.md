@@ -1,5 +1,10 @@
-# Hi there 👋, I'm Litan Molla
-## I am Fronted Web Developer 
+<div align="center">
+
+# Hi there 👋, I'm Litan Molla  
+##Frontend Web Developer  
+
+</div>
+
 I'm a passionate Junior Frontend Developer from Bangladesh. I love crafting beautiful and functional web interfaces using HTML, CSS, Bootstrap, and JavaScript. Currently, I'm learning JavaScript, jQuery, and exploring the world of Laravel to enhance my web development skills.
 
 ## Skills

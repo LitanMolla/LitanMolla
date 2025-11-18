@@ -2,20 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=LITAN%20MOLLA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast&descAlignY=55&descSize=20" />
 
 <div align="center"> 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=litanMolla&color=blue&style=flat)
-
-</div>
-
----
-
-## 🚀 About Me  
-- 🌱 Currently learning **Next.js, Node.js, Express.js & MongoDB**  
-- 💻 I enjoy building clean, user-friendly & responsive web interfaces  
-- 🔥 Passionate about Frontend Development and UI/UX  
-- 🎯 Goal: Become a skilled Full Stack Developer  
-- 🎧 Hobbies: Coding & Music  
+  
+## 👋 About Me  
+Hi! I'm **Litan Molla**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. I love turning ideas into functional interfaces and creating smooth user experiences.
 
 ---
 
